@@ -28,7 +28,7 @@
 }
 
 .ul {
-    background-color: #ec3;
+    background-color: #eee;
     display: grid;
     grid-template-columns: repeat(6, 1fr);
     list-style-type: none;
